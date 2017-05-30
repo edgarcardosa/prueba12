@@ -14,6 +14,9 @@ Edgar cardosa
 </author>
 <platform name="android">
 
-<icon src="images/telefono.png" gap:platform="android" gap:density="hdpi" />
+<icon src="images/telefono.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/telefono.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/telefono.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/telefono.png" gap:density="xhdpi" gap:platform="android" />
 </platform>
 </widget>
