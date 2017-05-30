@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.jjvo"
+    version   = "1.0.0">
+<gap:plugin name="com.paypal.cordova.mobilesdk" source="npm" />
+<name>Aplicación Final </name>
+<icon src="agenda.png" gap:platform="android" gap:density="hdpi" />
+<description>
+    Aplicación Final
+</description>
+<author href="" email="edgarcardosa10@outlook.com">
+Edgar cardosa
+</author>
+<platform name="android">
+
+<icon src="images/telefono.png" gap:platform="android" gap:density="hdpi" />
+</platform>
+</widget>
